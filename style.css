@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgba(35, 150, 35, 0.699);
+    
+   
+    
+  }
+  
+  header {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  section {
+    margin: 20px;
+  }
+  
+  h2 {
+    color: black;
+    
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 10px 0;
+    text-align: center;
+  }
+  
+  footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+  }
